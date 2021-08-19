@@ -1,0 +1,2 @@
+rootProject.name = "Projeto Exemplos de Dialogs"
+include ':app'
